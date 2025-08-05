@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim
 
-Atualmente estou no terceiro período da faculdade, cursando **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse em **programação orientada a objetos (POO)** e nas **linguagens utilizadas no desenvolvimento de jogos**.
+Atualmente estou no quarto período da faculdade, cursando **Análise e Desenvolvimento de Sistemas**. Tenho grande interesse em **programação orientada a objetos (POO)** e nas **linguagens utilizadas no desenvolvimento de jogos**.
 
 Pretendo me tornar um **desenvolvedor de jogos**, e por isso venho explorando tecnologias que me aproximam desse objetivo.
 
