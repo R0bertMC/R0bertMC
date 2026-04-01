@@ -49,12 +49,14 @@ Além disso, também desenvolvo habilidades em **backend**, **APIs REST** e **au
 
 ## 📈 Estatísticas do GitHub
 
+## 📈 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R0bertMC&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=R0bertMC&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0bertMC&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R0bertMC&layout=compact&theme=tokyonight" />
 </p>
 
 ---
