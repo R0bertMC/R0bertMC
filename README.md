@@ -49,8 +49,6 @@ Além disso, também desenvolvo habilidades em **backend**, **APIs REST** e **au
 
 ## 📈 Estatísticas do GitHub
 
-## 📈 Estatísticas do GitHub
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=R0bertMC&show_icons=true&theme=tokyonight" />
 </p>
